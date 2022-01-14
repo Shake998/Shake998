@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shake998)
 <!--
 **Shake998/Shake998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
